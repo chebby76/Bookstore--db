@@ -39,7 +39,22 @@ Users are created and assigned to these roles:
 - book_reader
 - book_writer
 - book_admin
-
+---
 
   > **BOOKSTORE ENTITY RELATIONSHIP DIAGRAM**
+ 
+  
   ![relationship](books.png)
+
+---
+
+CONTRIBUTORS
+ 
+1. [mittei lynne](https://github.com/mitteilynne)
+
+ 
+2. [Peter kiprotich](https://github.com/PeterKiprotichK)
+ 
+  
+3. [vivian chebii](https://github.com/chebby76)
+ ***
