@@ -40,3 +40,6 @@ Users are created and assigned to these roles:
 - book_writer
 - book_admin
 
+
+  > **BOOKSTORE ENTITY RELATIONSHIP DIAGRAM**
+  ![relationship](books.png)
